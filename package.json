@@ -1,0 +1,10 @@
+{
+  "name": "ai-service",
+  "description": "AI Service Implementation with Spring Boot",
+  "private": false,
+  "scripts": {
+    "start": "npm start",
+    "build": "npm run build",
+    "test": "npm test"
+  }
+}
